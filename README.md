@@ -1,6 +1,8 @@
 # test-gas-weather-to-header
 
-`https://www.jma.go.jp/bosai/forecast/` の `https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json` から情報を取得し、Noteion のページ(データベース)ヘッダーへ設定する GAS 用スクリプト。
+[`気象庁｜天気予報`](https://www.jma.go.jp/bosai/forecast/) の `https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json` から情報を取得し、Notion のページ(データベース)ヘッダーへ設定する GAS 用スクリプト。
+
+- 関連記事: [Notion のページウィジェットの表示を GAS で更新](https://zenn.dev/hankei6km/articles/update-notion-page-widget-by-gas)
 
 ## 使い方
 
